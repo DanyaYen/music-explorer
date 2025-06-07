@@ -1,4 +1,4 @@
-Music Explorer 🎵
+# Music Explorer 🎵
 A full-stack web application designed to demonstrate the power of graph databases for modeling and querying highly connected data. It allows users to explore a music knowledge graph, discovering artists based on genres.
 
 This project was built as a learning exercise to master graph databases (Neo4j), containerization with Docker, and building a modern web stack with a Python backend and a React frontend.
